@@ -1,5 +1,5 @@
 to combine data form multiple tables using join queries .
-join queries:- join queries are used to combinne data from two or more tables baed on a common betwween them .
+join queries:- join queries are used to combinne data from two or more tables based on a common between them .
 types of JOIN :-
 1.INNER JOIN
 2.LEFT OUTER JOIN 
